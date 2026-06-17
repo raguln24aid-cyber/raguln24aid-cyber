@@ -119,7 +119,6 @@ Passionate about building AI-powered applications using Machine Learning, Genera
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/raguln24aid-cyber
-* LinkedIn: Add Your LinkedIn URL Here
 
 ---
 
