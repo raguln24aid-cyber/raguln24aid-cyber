@@ -119,6 +119,9 @@ Passionate about building AI-powered applications using Machine Learning, Genera
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/raguln24aid-cyber
+* email :raguln.24aid@kongu.edu
+* leetcode id:https://leetcode.com/u/Ragul-N
+* linkedin id:https://www.linkedin.com/in/ragul-n-1195a8415
 
 ---
 MY WORK:
