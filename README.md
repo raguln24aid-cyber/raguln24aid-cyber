@@ -1,4 +1,17 @@
 # Hi 👋, I'm Ragul N
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raguln24aid-cyber&show_icons=true&theme=tokyonight)](https://github.com/raguln24aid-cyber)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=raguln24aid-cyber&theme=tokyonight)](https://github.com/raguln24aid-cyber)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 ### Aspiring AI Engineer | GenAI Developer | FastAPI Developer
 
