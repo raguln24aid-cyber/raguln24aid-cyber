@@ -27,7 +27,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;GenAI+%2B+RAG+Developer;FastAPI+%2B+LangGraph+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=700&height=60&lines=Hi+👋%2C+I'm+Ragul+N;Aspiring+AI+Engineer+🚀;GenAI+%2B+RAG+Developer;FastAPI+%2B+LangGraph+Enthusiast;Building+Agentic+AI+Systems+🤖)](https://git.io/typing-svg)
 
 
 
