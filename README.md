@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ragul N
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raguln24aid-cyber&show_icons=true&theme=tokyonight)](https://github.com/raguln24aid-cyber)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raguln24aid-cyber&theme=tokyonight)](https://github.com/raguln24aid-cyber)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
