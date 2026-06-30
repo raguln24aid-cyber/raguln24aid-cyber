@@ -14,6 +14,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;GenAI+%2B+RAG+Developer;FastAPI+%2B+LangGraph+Enthusiast)](https://git.io/typing-svg)
+
+
+![Banner](https://raw.githubusercontent.com/raguln24aid-cyber/raguln24aid-cyber/main/assets/banner.png)
 
 
 ### Aspiring AI Engineer | GenAI Developer | FastAPI Developer
