@@ -33,8 +33,6 @@
 
 
 
-### Aspiring AI Engineer | GenAI Developer | FastAPI Developer
-
 Passionate about building AI-powered applications using Machine Learning, Generative AI, RAG systems, Multi-Agent Architectures, and FastAPI.
 
 ---
